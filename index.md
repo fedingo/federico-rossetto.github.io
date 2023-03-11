@@ -24,6 +24,8 @@ __2022__
 * Our GRILL Team won the [Alexa Prize TaskBot Challenge](https://grilllab.ai/2022-05-15-alexa_taskbot_win/) [**Paper**](https://www.amazon.science/alexa-prize/proceedings/grillbot-a-flexible-conversational-agent-for-solving-complex-real-world-tasks){:target="_blank"}
 * Practical Session for the Conversational Information Seekeing Tutorial at [SIGIR2022](https://sigir.org/sigir2022/program/tutorials/#Conversational){:target="_blank"}
 
+__2019__
+* TODO
 
 __2018__
 * Won with my team the [Fujitsu AI NLP Challenge](https://www.technology.org/2018/05/02/fujitsu-ai-nlp-challenge/){:target="_blank"} [Paper](https://ceur-ws.org/Vol-2244/paper_05.pdf){:target="_blank"}
