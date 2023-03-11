@@ -4,7 +4,7 @@ title: Federico Rossetto
 ---
 
 
-![federico_rossetto](assets/img/federico_rossetto_2.jpg){:style="float: right; margin: 0px 20px; width: 20%;"}
+![federico_rossetto](assets/img/federico_rossetto_2.jpeg){:style="float: right; margin: 0px 20px; width: 20%;"}
 
 I'm a **Ph.D. student** at the University of Glasgow supervised by [Jeff Dalton](https://www.dcs.gla.ac.uk/~jeff/){:target="_blank"}
 
