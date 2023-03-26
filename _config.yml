@@ -16,7 +16,7 @@ author: fedingo@gmail.com
 
 navbar-links:
   # About Me: "aboutme"
-  CV/Resume: "assets/cv_federico_rossetto.pdf"
+  CV/Resume: "cv_federico_rossetto.pdf"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
